@@ -1,0 +1,16 @@
+PODS:
+  - TestIC (0.1.0)
+
+DEPENDENCIES:
+  - TestIC (from `../`)
+
+EXTERNAL SOURCES:
+  TestIC:
+    :path: ../
+
+SPEC CHECKSUMS:
+  TestIC: d37ce933a3b55f6da4f0ca281c83a034c35c364c
+
+PODFILE CHECKSUM: e0518dba71565b5d9f9177a894d4f83b65e65f35
+
+COCOAPODS: 1.2.1

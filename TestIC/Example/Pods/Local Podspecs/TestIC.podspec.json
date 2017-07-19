@@ -1,0 +1,22 @@
+{
+  "name": "TestIC",
+  "version": "0.1.0",
+  "summary": "A short description of TestIC.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/boopathyparamasivan/TestIC",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "boopathyparamasivan": "boopathy.p@zohocorp.com"
+  },
+  "source": {
+    "git": "https://github.com/boopathyparamasivan/TestIC.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "TestIC/Classes/**/*"
+}

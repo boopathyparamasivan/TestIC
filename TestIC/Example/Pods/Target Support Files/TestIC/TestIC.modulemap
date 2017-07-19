@@ -1,0 +1,6 @@
+framework module TestIC {
+  umbrella header "TestIC-umbrella.h"
+
+  export *
+  module * { export * }
+}
